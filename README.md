@@ -5,7 +5,7 @@ Replication package for "Law Smells: Defining and Detecting Problematic Patterns
 
 Below, we list the (derived) data and the code needed to reproduce our tables and figures.
 
-For the file paths to match, the folder `us` is expected reside in the folder `../../legal-networks-data` (when viewed from the `notebooks` folder), and ZIP archives are expected to be unpacked.
+For the file paths to match, the folder `us` (provided in the data release) is expected reside in the folder `../../legal-networks-data` (when viewed from the `notebooks` folder), and ZIP archives are expected to be unpacked.
 
 The code is tested in a virtual environment with a Python 3.8 interpreter and the requirements from `requirements-dev.txt` installed via `pip install -r requirements-dev.txt`.
 
