@@ -1,0 +1,11 @@
+beautifulsoup4
+jupyterlab
+lxml
+matplotlib
+networkx
+pandas
+regex
+seaborn
+quantlaw
+powerlaw
+natsort
